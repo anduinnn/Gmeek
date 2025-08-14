@@ -1,6 +1,6 @@
-# ohiyou :link: https://anduinnn.github.io/Gmeek 
-### :page_facing_up: [1](https://anduinnn.github.io/Gmeek/tag.html) 
+# ohiyou :link: https://blog.ohiyou.cc 
+### :page_facing_up: [1](https://blog.ohiyou.cc/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 20 
-### :alarm_clock: 2025-08-14 11:41:24 
+### :alarm_clock: 2025-08-14 11:50:16 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
