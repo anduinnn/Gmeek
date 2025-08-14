@@ -1,13 +1,16 @@
 {
     "title":"ohiyou",
     "subTitle":"玉京星阙杳然迹,无人唱彻大风歌",
+    "homeUrl":"https://blog.ohiyou.cc",
     "avatarUrl":"https://blog.ohiyou.cc/ohiyou.svg",
     "faviconUrl":"https://blog.ohiyou.cc/ohiyou.svg",
+    "singlePage":["link","about"],
     "GMEEK_VERSION":"last",
     "email":"ohiyou@linux.do",
     "startSite":"08/14/2025",
     "onePageListNum":15,
     "commentLabelColor":"#339933",
+    "nightTheme":"dark_colorblind",
     "i18n":"CN",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>"
