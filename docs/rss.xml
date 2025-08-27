@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ohiyou</title><link>https://blog.ohiyou.cc</link><description>玉京星阙杳然迹,无人唱彻大风歌</description><copyright>ohiyou</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.ohiyou.cc/ohiyou.svg</url><title>avatar</title><link>https://blog.ohiyou.cc</link></image><lastBuildDate>Wed, 27 Aug 2025 06:52:55 +0000</lastBuildDate><managingEditor>ohiyou</managingEditor><ttl>60</ttl><webMaster>ohiyou</webMaster><item><title>通过数字许可证激活 Windows系统</title><link>https://blog.ohiyou.cc/post/tong-guo-shu-zi-xu-ke-zheng-ji-huo-%20Windows-xi-tong.html</link><description>1. 打开`powershell`
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ohiyou</title><link>https://blog.ohiyou.cc</link><description>玉京星阙杳然迹,无人唱彻大风歌</description><copyright>ohiyou</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.ohiyou.cc/ohiyou.svg</url><title>avatar</title><link>https://blog.ohiyou.cc</link></image><lastBuildDate>Wed, 27 Aug 2025 07:41:18 +0000</lastBuildDate><managingEditor>ohiyou</managingEditor><ttl>60</ttl><webMaster>ohiyou</webMaster><item><title>激活 Windows / Office</title><link>https://blog.ohiyou.cc/post/ji-huo-%20Windows%20-%20Office.html</link><description>1. 打开`powershell`
 2. 复制并粘贴以下代码
     - `irm https://get.activated.win | iex`
 3. 在激活菜单出现后根据选项选择合适的激活方案
@@ -14,7 +14,7 @@
 
 
 
-&gt; PowerShell中的 IRM 命令从指定的 URL 下载脚本, IEX 命令表示执行该脚本。</description><guid isPermaLink="true">https://blog.ohiyou.cc/post/tong-guo-shu-zi-xu-ke-zheng-ji-huo-%20Windows-xi-tong.html</guid><pubDate>Thu, 14 Aug 2025 06:24:05 +0000</pubDate></item><item><title>收集的词句</title><link>https://blog.ohiyou.cc/post/shou-ji-de-ci-ju.html</link><description>- 遥远的救世主
+&gt; PowerShell中的 IRM 命令从指定的 URL 下载脚本, IEX 命令表示执行该脚本。</description><guid isPermaLink="true">https://blog.ohiyou.cc/post/ji-huo-%20Windows%20-%20Office.html</guid><pubDate>Thu, 14 Aug 2025 06:24:05 +0000</pubDate></item><item><title>收集的词句</title><link>https://blog.ohiyou.cc/post/shou-ji-de-ci-ju.html</link><description>- 遥远的救世主
 - 天国的女儿
 - 作茧缚命
 - 本是后山人,偶做前堂客.醉舞经阁半卷书,坐井说天阔.
