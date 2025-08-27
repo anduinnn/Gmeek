@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ohiyou</title><link>https://blog.ohiyou.cc</link><description>玉京星阙杳然迹,无人唱彻大风歌</description><copyright>ohiyou</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.ohiyou.cc/ohiyou.svg</url><title>avatar</title><link>https://blog.ohiyou.cc</link></image><lastBuildDate>Wed, 27 Aug 2025 08:10:46 +0000</lastBuildDate><managingEditor>ohiyou</managingEditor><ttl>60</ttl><webMaster>ohiyou</webMaster><item><title>暂停 Windows 更新</title><link>https://blog.ohiyou.cc/post/zan-ting-%20Windows%20-geng-xin.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ohiyou</title><link>https://blog.ohiyou.cc</link><description>玉京星阙杳然迹,无人唱彻大风歌</description><copyright>ohiyou</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.ohiyou.cc/ohiyou.svg</url><title>avatar</title><link>https://blog.ohiyou.cc</link></image><lastBuildDate>Wed, 27 Aug 2025 08:16:45 +0000</lastBuildDate><managingEditor>ohiyou</managingEditor><ttl>60</ttl><webMaster>ohiyou</webMaster><item><title>暂停 Windows 更新</title><link>https://blog.ohiyou.cc/post/zan-ting-%20Windows%20-geng-xin.html</link><description>
 ## 延长更新暂停时间
 
 **第一步：设置注册表**
@@ -38,9 +38,16 @@
 &gt; reg add 这个命令的作用是修改Windows注册表,
 原本Windows只允许暂停更新几周时间，通过修改注册表中的`FlightSettingsMaxPauseDays`值，我们可以大幅延长这个限制.
 &gt; 将`FlightSettingsMaxPauseDays`的值重新设置为1天，恢复到Windows系统的默认限制。</description><guid isPermaLink="true">https://blog.ohiyou.cc/post/zan-ting-%20Windows%20-geng-xin.html</guid><pubDate>Wed, 27 Aug 2025 08:10:16 +0000</pubDate></item><item><title>激活 Windows / Office</title><link>https://blog.ohiyou.cc/post/ji-huo-%20Windows%20-%20Office.html</link><description>1. 打开`powershell`
+
 2. 复制并粘贴以下代码
-    - `irm https://get.activated.win | iex`
-3. 在激活菜单出现后根据选项选择合适的激活方案
+
+    ```powershell
+    irm https://get.activated.win | iex
+    ```
+
+    
+
+1. 在激活菜单出现后根据选项选择合适的激活方案
 
     |  激活类型  |       支持的产品       | 激活期限 | 是否需要联网 |
     | :--------: | :--------------------: | :------: | :----------: |
