@@ -10,9 +10,39 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="">
+<meta name="description" content="1. 打开`powershell`
+2. 复制并粘贴以下代码
+    - `irm https://get.activated.win | iex`
+3. 在激活菜单出现后根据选项选择合适的激活方案
+
+    |  激活类型  |       支持的产品       | 激活期限 | 是否需要联网 |
+    | :--------: | :--------------------: | :------: | :----------: |
+    |    HWID    |     Windows 10-11      |   永久   |      是      |
+    |   Ohook    |         Office         |   永久   |      否      |
+    |  TSforge   | Windows / ESU / Office |   永久   |      是      |
+    |   KMS38    |  Windows 10-11-Server  |  2038年  |      否      |
+    | Online KMS |    Windows / Office    |  180天   |      是      |
+
+
+
+> PowerShell中的 IRM 命令从指定的 URL 下载脚本, IEX 命令表示执行该脚本。">
 <meta property="og:title" content="通过数字许可证激活 Windows系统">
-<meta property="og:description" content="">
+<meta property="og:description" content="1. 打开`powershell`
+2. 复制并粘贴以下代码
+    - `irm https://get.activated.win | iex`
+3. 在激活菜单出现后根据选项选择合适的激活方案
+
+    |  激活类型  |       支持的产品       | 激活期限 | 是否需要联网 |
+    | :--------: | :--------------------: | :------: | :----------: |
+    |    HWID    |     Windows 10-11      |   永久   |      是      |
+    |   Ohook    |         Office         |   永久   |      否      |
+    |  TSforge   | Windows / ESU / Office |   永久   |      是      |
+    |   KMS38    |  Windows 10-11-Server  |  2038年  |      否      |
+    | Online KMS |    Windows / Office    |  180天   |      是      |
+
+
+
+> PowerShell中的 IRM 命令从指定的 URL 下载脚本, IEX 命令表示执行该脚本。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://blog.ohiyou.cc/post/tong-guo-shu-zi-xu-ke-zheng-ji-huo-%20Windows-xi-tong.html">
 <meta property="og:image" content="https://blog.ohiyou.cc/ohiyou.svg">
@@ -73,7 +103,65 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"></div>
+<div class="markdown-body" id="postBody"><ol>
+<li>
+<p>打开<code class="notranslate">powershell</code></p>
+</li>
+<li>
+<p>复制并粘贴以下代码</p>
+<ul>
+<li><code class="notranslate">irm https://get.activated.win | iex</code></li>
+</ul>
+</li>
+<li>
+<p>在激活菜单出现后根据选项选择合适的激活方案</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th align="center">激活类型</th>
+<th align="center">支持的产品</th>
+<th align="center">激活期限</th>
+<th align="center">是否需要联网</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">HWID</td>
+<td align="center">Windows 10-11</td>
+<td align="center">永久</td>
+<td align="center">是</td>
+</tr>
+<tr>
+<td align="center">Ohook</td>
+<td align="center">Office</td>
+<td align="center">永久</td>
+<td align="center">否</td>
+</tr>
+<tr>
+<td align="center">TSforge</td>
+<td align="center">Windows / ESU / Office</td>
+<td align="center">永久</td>
+<td align="center">是</td>
+</tr>
+<tr>
+<td align="center">KMS38</td>
+<td align="center">Windows 10-11-Server</td>
+<td align="center">2038年</td>
+<td align="center">否</td>
+</tr>
+<tr>
+<td align="center">Online KMS</td>
+<td align="center">Windows / Office</td>
+<td align="center">180天</td>
+<td align="center">是</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+</li>
+</ol>
+<blockquote>
+<p>PowerShell中的 IRM 命令从指定的 URL 下载脚本, IEX 命令表示执行该脚本</p>
+</blockquote></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
