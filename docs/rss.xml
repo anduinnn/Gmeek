@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ohiyou</title><link>https://blog.ohiyou.cc</link><description>玉京星阙杳然迹,无人唱彻大风歌</description><copyright>ohiyou</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.ohiyou.cc/ohiyou.svg</url><title>avatar</title><link>https://blog.ohiyou.cc</link></image><lastBuildDate>Wed, 27 Aug 2025 08:16:45 +0000</lastBuildDate><managingEditor>ohiyou</managingEditor><ttl>60</ttl><webMaster>ohiyou</webMaster><item><title>暂停 Windows 更新</title><link>https://blog.ohiyou.cc/post/zan-ting-%20Windows%20-geng-xin.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ohiyou</title><link>https://blog.ohiyou.cc</link><description>玉京星阙杳然迹,无人唱彻大风歌</description><copyright>ohiyou</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.ohiyou.cc/ohiyou.svg</url><title>avatar</title><link>https://blog.ohiyou.cc</link></image><lastBuildDate>Fri, 27 Feb 2026 15:23:13 +0000</lastBuildDate><managingEditor>ohiyou</managingEditor><ttl>60</ttl><webMaster>ohiyou</webMaster><item><title>暂停 Windows 更新</title><link>https://blog.ohiyou.cc/post/zan-ting-%20Windows%20-geng-xin.html</link><description>
 ## 延长更新暂停时间
 
 **第一步：设置注册表**
@@ -69,4 +69,5 @@
 - 我在风中行走.回头看,失去的和得到的一样多.
 - 在失去的所有人中,我最怀念的,是我自己.
 - 山里的黄昏容易让人想起旧事.
-- ~~人来人往,你又能记住我多久呢~~。</description><guid isPermaLink="true">https://blog.ohiyou.cc/post/shou-ji-de-ci-ju.html</guid><pubDate>Thu, 14 Aug 2025 02:51:04 +0000</pubDate></item></channel></rss>
+- ~~人来人往,你又能记住我多久呢~~
+- 梦境之二。</description><guid isPermaLink="true">https://blog.ohiyou.cc/post/shou-ji-de-ci-ju.html</guid><pubDate>Thu, 14 Aug 2025 02:51:04 +0000</pubDate></item></channel></rss>
